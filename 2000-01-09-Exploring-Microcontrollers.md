@@ -4,7 +4,7 @@ title: Exploring Microcontrollers
 description: This project, as the name implies, is exploring different microcontrollers and programming them to complete various tasks which get progressively more complex. The purpose of this project is learn more about how microcontrollers work and how to program them to accomplish a variety of tasks.
 date: 2000-01-09 09:00:00
 hero_image: /web/img/Exploring-Microcontrollers/Hero.png
-image: /web/img/Exploring-Microcontrollers/Hero.png
+# image /web/img/Exploring-Microcontrollers/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
