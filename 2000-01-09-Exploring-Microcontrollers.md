@@ -21,7 +21,7 @@ Sajan Ronvelwala
 William Gerhard
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Exploring-Microcontrollers"" >Exploring-Microcontrollers</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Exploring-Microcontrollers" >Exploring-Microcontrollers</a>
 
 ## Photo
 
