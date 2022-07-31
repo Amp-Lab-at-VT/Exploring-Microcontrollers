@@ -9,8 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Sajan Ronvelwala
-William Gerhard
+author: Sajan Ronvelwala, William Gerhard
 show_sidebar: false
 ---
 
